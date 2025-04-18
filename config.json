@@ -1,0 +1,15 @@
+{
+    "num_inputs": 2,
+    "resolution": 100,
+    "input_max": [500, 0.2],
+    "input_min": [100, 0.1],
+    "batch_size": 3,
+    "epoch_size": 10,
+    "max_iter": 50,
+    "max_labels": 30,
+    "num_epochs_per_iter": 5,
+    "learning_rate": 0.01,
+    "device": "cpu",
+    "random_seed": 42,
+    "output_dir": "results"
+}
